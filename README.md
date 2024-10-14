@@ -23,7 +23,7 @@ Se você estiver no Windows, use o WSL 2. Veja nosso tutorial [https://github.co
 
 ## Rodar a aplicação
 
-Ao final das aulas teremos todo o projeto, no momento estamos na aula 02 do Golang, então, acessar a pasta `golang` e siga as instruções.
+Ao final das aulas teremos todo o projeto, no momento estamos na aula 03 do RabbitMQ, então, acesse as pastas `golang` e `django` e siga as instruções.
 
 
 ## Arquitetura do projeto
