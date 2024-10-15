@@ -20,4 +20,4 @@ Acesse o container o rodando o comando:
 docker compose exec go_app_dev bash
 ```
 
-Use os comandos `cmd/splitchunks/main.go` e `cmd/consumer/main.go` para rodar a aplicação, conforme a aula.
+Use os comandos `cmd/splitchunks/main.go` e `cmd/videoconverter/main.go` para rodar a aplicação, conforme a aula.
