@@ -55,6 +55,16 @@ python manage.py runserver
 Acesse o admin em [http://localhost:8000/admin]().
 
 
+## Dados de testes
+
+A aplicação já possui dados de testes, rode o comando abaixo para carregá-los:
+
+```bash
+python manage.py flush && python manage.py loaddata initial_data.json
+```
+
+O comando `flush` limpa o banco de dados e o `loaddata` carrega os dados de testes.
+
 ## Configurar /etc/hosts
 
 O RabbitMQ está sendo executado no `docker-compose.yaml` da aplicação Golang, assim como o Django está em outro `docker-compose.yaml`, os containers estão em redes diferentes.

@@ -23,8 +23,9 @@ Se você estiver no Windows, use o WSL 2. Veja nosso tutorial [https://github.co
 
 ## Rodar a aplicação
 
-Ao final das aulas teremos todo o projeto, no momento estamos na aula 03 do RabbitMQ, então, acesse as pastas `golang` e `django` e siga as instruções.
+Já temos todo o projeto desenvolvido, então, para rodar a aplicação, basta acessar as pastas `golang`, `django` e `nextjs` e seguir as instruções.
 
+Na aula seguinte teremos a integração entre os projetos, permitindo rodar tudo com um único comando.
 
 ## Arquitetura do projeto
 
