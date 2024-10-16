@@ -23,9 +23,16 @@ Se você estiver no Windows, use o WSL 2. Veja nosso tutorial [https://github.co
 
 ## Rodar a aplicação
 
-Já temos todo o projeto desenvolvido, então, para rodar a aplicação, basta acessar as pastas `golang`, `django` e `nextjs` e seguir as instruções.
+Rode todas as aplicações com o comando:
+    
+```bash
+docker-compose up -d
+```
 
-Na aula seguinte teremos a integração entre os projetos, permitindo rodar tudo com um único comando.
+Este comando irá subir todos os containers necessários para rodar todo o projeto
+
+Acesse as pastas `golang`, `django` e `nextjs` e siga as instruções.
+
 
 ## Arquitetura do projeto
 
